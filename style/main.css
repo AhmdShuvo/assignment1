@@ -3,26 +3,34 @@ section{
   font-size: 26px;
   padding-left: 5%;
   padding-top: 10%;
-  font-family: sans-serif;
+  font-family: serif;
   
 }
 .upperpart{
 
     width: 40%;
-    font-size: 36px;
+    font-size: 26px;
   
+    
 
 }
 .upperimg{
     width: 80%;
     padding-left: 10%;
+    margin-left: 200px;
+  
 }
 span{
     color: gold;
 }
-.order{
+.button{
     text-decoration: none;
     font-size: 70px;
     color: white;
     background-image: linear-gradient(orange,grey);
+}
+.about{
+    background-image: url(images/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    font-family: serif;
 }
