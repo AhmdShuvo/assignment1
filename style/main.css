@@ -16,7 +16,7 @@ section{
 }
 .upperimg{
     width: 80%;
-    padding-left: 10%;
+    
     margin-left: 200px;
   
 }
@@ -34,3 +34,5 @@ span{
     background-repeat: no-repeat;
     font-family: serif;
 }
+
+
