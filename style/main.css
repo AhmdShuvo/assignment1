@@ -1,0 +1,28 @@
+section{
+    display: flex;
+  font-size: 26px;
+  padding-left: 5%;
+  padding-top: 10%;
+  font-family: sans-serif;
+  
+}
+.upperpart{
+
+    width: 40%;
+    font-size: 36px;
+  
+
+}
+.upperimg{
+    width: 80%;
+    padding-left: 10%;
+}
+span{
+    color: gold;
+}
+.order{
+    text-decoration: none;
+    font-size: 70px;
+    color: white;
+    background-image: linear-gradient(orange,grey);
+}
