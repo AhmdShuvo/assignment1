@@ -24,9 +24,10 @@ span{
 }
 .button{
     text-decoration: none;
-    font-size: 36px;
+    font-size: 49px;
+    border-radius: 20px;
     color: white;
-    background-image: linear-gradient(red,grey);
+    background-image: linear-gradient(red,black,blue);
 }
 .onethird{
 
@@ -49,8 +50,9 @@ border: solid whitesmoke;
     box-shadow: 10px 10px 10px gray;
     padding-left: 10px;
     margin: 100px;
+    border-radius: 30px;
 }
-     .youtube{
+     .Link{
 
         font-size: 40px;
         margin-left: 200px;
