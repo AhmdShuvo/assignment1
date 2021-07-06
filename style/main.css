@@ -12,6 +12,10 @@ body{
 width: 100%;
 
 }
+.about{
+    background-image: url(images/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+}
 p{
     font-size: 34px;
 }
