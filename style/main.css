@@ -1,38 +1,29 @@
-section{
+.container{
+
     display: flex;
-  font-size: 26px;
-  padding-left: 5%;
-  padding-top: 10%;
-  font-family: serif;
-  
-}
-.upperpart{
-
-    width: 40%;
-    font-size: 26px;
-  
-    
+    font-family: sans-serif;
 
 }
-.upperimg{
-    width: 80%;
-    
-    margin-left: 200px;
-  
+.half{
+    width: 50%;
+    margin-left: 40px;
+    padding-top: 30px;
+    font-size: x-large;
 }
 span{
+
     color: gold;
 }
 .button{
     text-decoration: none;
-    font-size: 70px;
+    font-size: 36px;
     color: white;
-    background-image: linear-gradient(orange,grey);
+    background-image: linear-gradient(red,grey);
 }
-.about{
-    background-image: url(images/Frame\ 58.jpg);
-    background-repeat: no-repeat;
-    font-family: serif;
+.onethird{
+
+    width: 30%;
+   padding-right: 30px;
+   margin: 10px;
 }
-
-
+        
