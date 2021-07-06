@@ -8,7 +8,7 @@
     width: 50%;
     margin-left: 40px;
     padding-top: 30px;
-    font-size: x-large;
+    font-size: 38px;
 }
 span{
 
@@ -23,7 +23,11 @@ span{
 .onethird{
 
     width: 30%;
-   padding-right: 30px;
-   margin: 10px;
+  
+  
+}
+.recipies{
+
+    font-size: 36px;
 }
         
