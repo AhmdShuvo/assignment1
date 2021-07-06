@@ -1,6 +1,6 @@
 body{
 
-    font-family: cursive;
+   font-family: serif;
     margin: 0%;
     padding: 0px;
 
@@ -11,6 +11,9 @@ body{
     display: flex;
 width: 100%;
 
+}
+p{
+    font-size: 34px;
 }
 .half{
     width: 50%;
@@ -37,12 +40,15 @@ padding: 10px;
 border-radius: 60px;
 margin-left: 20px;
 box-shadow: 10px 10px 10px gray;
+font-size: 24px;
   
 }
 .recipies{
 
-    font-size: 36px;
+    font-size: 40px;
 }
+
+
 .social{
     display: flex;
 border: solid whitesmoke;
@@ -70,3 +76,9 @@ border: solid whitesmoke;
        margin-top: 30px;
        box-shadow: 10px 10px 10px gray;
      }
+ 
+ .info{
+
+    color: blue;
+
+ }
