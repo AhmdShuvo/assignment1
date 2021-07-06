@@ -52,16 +52,13 @@ border: solid whitesmoke;
     margin: 100px;
     border-radius: 30px;
 }
-  .Link{
+  .Link
+       {
 
         font-size: 40px;
         margin-left: 200px;
         width: 60%;
-    
-      
-        
-
-     }  
+        }  
      
      .summery{
        width: 100%;
@@ -73,7 +70,4 @@ border: solid whitesmoke;
        font-size: 26px;
        margin-top: 30px;
        box-shadow: 10px 10px 10px gray;
-
-
-
      }
